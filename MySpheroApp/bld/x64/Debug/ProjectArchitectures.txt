@@ -1,0 +1,2 @@
+d:\temp\MySpheroLibrary\MySpheroApp\MySpheroApp.jsproj;x64
+d:\temp\MySpheroLibrary\MySpheroLibrary\MySpheroLibrary.csproj;x64
